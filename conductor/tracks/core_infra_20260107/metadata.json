@@ -1,0 +1,8 @@
+{
+  "track_id": "core_infra_20260107",
+  "type": "feature",
+  "status": "new",
+  "created_at": "2026-01-07T00:00:00Z",
+  "updated_at": "2026-01-07T00:00:00Z",
+  "description": "Build the core platform infrastructure, including user authentication, database integration, and a basic content management system for guides and case studies."
+}
